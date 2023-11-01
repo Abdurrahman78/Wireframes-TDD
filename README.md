@@ -6,7 +6,7 @@ Welcome to my Agile Development Showcase! This repository aims to highlight my p
 
 ## 1. Scrum Schedule
 
-![Scrum Schedule](URL_OF_YOUR_SCRUM_SCHEDULE_IMAGE)
+![Scrum Schedule](https://user-images.githubusercontent.com/48568792/279810728-425ab7a2-ec4e-465f-9cd6-2863c7cfa9bb.png)
 
 **Description**:
 This screenshot showcases the Scrum schedule of our project, highlighting key events like sprint planning, daily scrums, and retrospectives. The color-coded system allows for easy differentiation between various sessions.
@@ -60,9 +60,7 @@ The task board offers a snapshot of the project's progress. Organized columns se
 
 Agile methodologies have greatly streamlined our development process, ensuring a balance between rapid iterations and quality output. These visual artifacts play a crucial role in maintaining transparency, understanding, and collaboration across the team.
 
----
 
-## References
 
-[Include any tools, methodologies, or books you've referred to or utilized in your project.]
+
 
