@@ -19,7 +19,7 @@ This screenshot showcases the Scrum schedule of our project, highlighting key ev
 
 ## 2. Sequence Diagram - User Interaction
 
-![Sequence Diagram - User Interaction](URL_OF_YOUR_SEQUENCE_DIAGRAM_USER_IMAGE)
+![Sequence Diagram - User Interaction](https://user-images.githubusercontent.com/48568792/279811232-b7c784c7-e93c-4cd6-a0c4-330e0d4ac20f.png)
 
 **Description**:
 A detailed sequence diagram lays out the process of user interaction with the system. The multiple layers and pathways showcase various potential scenarios and how the system handles them.
@@ -30,22 +30,11 @@ A detailed sequence diagram lays out the process of user interaction with the sy
 
 ---
 
-## 3. Sequence Diagram - Client & Server
 
-![Sequence Diagram - Client & Server](URL_OF_YOUR_SEQUENCE_DIAGRAM_CLIENT_SERVER_IMAGE)
 
-**Description**:
-This screenshot focuses on the interplay between the client and server. It illustrates the data requests, processing, and responses, offering a peek into the intricacies of backend operations.
+## 3. Task Board/Backlog Grooming
 
-**Key Takeaways**:
-- Backend communication is essential for smooth user experiences.
-- Comprehensive diagrams help in troubleshooting and optimization.
-
----
-
-## 4. Task Board
-
-![Task Board](URL_OF_YOUR_FOURTH_SCREENSHOT_IMAGE)
+![Task Board](https://user-images.githubusercontent.com/48568792/279811654-e36239a2-6a77-454d-af5d-e729b2ed5487.png)
 
 **Description**:
 The task board offers a snapshot of the project's progress. Organized columns segregate tasks based on their status, from backlog items to tasks in progress and completed tasks.
