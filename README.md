@@ -34,7 +34,7 @@ A detailed sequence diagram lays out the process of user interaction with the sy
 
 ## 3. Task Board/Backlog Grooming
 
-![Task Board](https://user-images.githubusercontent.com/48568792/279811654-e36239a2-6a77-454d-af5d-e729b2ed5487.png)
+![Task Board](https://user-images.githubusercontent.com/48568792/279811652-192a1e31-3849-480f-8ec1-e9da0dec2578.png),(https://user-images.githubusercontent.com/48568792/279811654-e36239a2-6a77-454d-af5d-e729b2ed5487.png)
 
 **Description**:
 The task board offers a snapshot of the project's progress. Organized columns segregate tasks based on their status, from backlog items to tasks in progress and completed tasks.
